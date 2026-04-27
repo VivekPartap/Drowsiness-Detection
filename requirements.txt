@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+scikit-learn
+matplotlib
+playsound==1.2.2
+joblib
+pandas
+tensorflow # For Image Data Generator and Keras model
+pillow # For PIL Image operations in GUI and data loading
+seaborn
+kagglehub # For downloading the dataset
