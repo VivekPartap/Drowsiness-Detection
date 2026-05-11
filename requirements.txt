@@ -1,0 +1,20 @@
+# =========================================================
+# DRIVER DROWSINESS DETECTION SYSTEM
+# Core runtime requirements
+# =========================================================
+
+# Deep Learning
+tensorflow==2.19.0
+
+# Computer Vision
+opencv-python==4.11.0.86
+mediapipe==0.10.14
+
+# Numerical Computing
+numpy==1.26.4
+
+# TensorFlow / MediaPipe Compatibility
+protobuf==4.25.3
+
+# Audio Alarm
+pygame==2.6.1
